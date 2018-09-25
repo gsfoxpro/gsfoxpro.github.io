@@ -134,7 +134,7 @@ sup {
    ========================================================================== */
 
 /**
- * Remove the border on ../images inside links in IE 10.
+ * Remove the border on images inside links in IE 10.
  */
 
 img {
@@ -347,13 +347,13 @@ template {
 
 @font-face {
     font-family: 'Permian Slab';
-    src: url(../fonts/0606cfc612d4657c952f6caf8ee0bf3c.otf);
+    src: url(fonts/0606cfc612d4657c952f6caf8ee0bf3c.otf);
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'Permian Slab';
-    src: url(../fonts/9cf5059da3a6cd96e0e94cf6c53457f4.otf);
+    src: url(fonts/9cf5059da3a6cd96e0e94cf6c53457f4.otf);
     font-weight: bold;
     font-style: normal;
 }
@@ -501,6 +501,9 @@ p {
 }
 #root {
     height: 0;
+}
+body {
+    background: #777;
 }.screen-saver-page {
     display: flex;
     justify-content: flex-end;
@@ -545,7 +548,7 @@ p {
     height: 100%;
     background: #A0474D;
     position: relative;
-    background: url(../images/5d9d55e74825e2874a794b1a1d885f55.png) 0 0 no-repeat;
+    background: url(images/5d9d55e74825e2874a794b1a1d885f55.png) 0 0 no-repeat;
 }
 .menu__header {
     height: 225px;
@@ -556,7 +559,7 @@ p {
 .menu__header__logo {
     width: 225px;
     height: 105px;
-    background: url(../images/29bf4820d71b3022a3995471428dd608.svg) center no-repeat;
+    background: url(images/29bf4820d71b3022a3995471428dd608.svg) center no-repeat;
     position: absolute;
     top: 40px;
     left: 100px;
@@ -608,25 +611,25 @@ p {
     left: -45px;
 }
 .menu__item.map > p::before {
-    background: url(../images/9de4032c9c2e18d6e220d0f98abe58ea.svg);
+    background: url(images/9de4032c9c2e18d6e220d0f98abe58ea.svg);
 }
 .menu__item.tourist > p::before {
-    background: url(../images/1d31c7f691055b48688bd8bb20244a98.svg);
+    background: url(images/1d31c7f691055b48688bd8bb20244a98.svg);
 }
 .menu__item.rafting > p::before {
-    background: url(../images/02a1ea61b49656c752a80bde1f4d9905.svg);
+    background: url(images/02a1ea61b49656c752a80bde1f4d9905.svg);
 }
 .menu__item.active-tour > p::before {
-    background: url(../images/5a4c9358e441f0d62a74dbbcbdd75cae.svg);
+    background: url(images/5a4c9358e441f0d62a74dbbcbdd75cae.svg);
 }
 .menu__item.sanatorium > p::before {
-    background: url(../images/379c73f5e2eb83f0a31ab3fa532d6333.svg);
+    background: url(images/379c73f5e2eb83f0a31ab3fa532d6333.svg);
 }
 .menu__item.ski > p::before {
-    background: url(../images/1ea509d231ade993e74b278046118236.svg);
+    background: url(images/1ea509d231ade993e74b278046118236.svg);
 }
 .menu__item.event > p::before {
-    background: url(../images/996cc09716be58c0e2c4d58744b2d1cb.svg);
+    background: url(images/996cc09716be58c0e2c4d58744b2d1cb.svg);
 }
 
 .menu__item.active > p {
@@ -725,12 +728,12 @@ p {
     position: absolute;
     top: 20px;
     right: 20px;
-    background: url(../images/22ce08da6dcf501438944d208580f1b5.svg) center no-repeat;
+    background: url(images/22ce08da6dcf501438944d208580f1b5.svg) center no-repeat;
     width: 20px;
     height: 20px;
 }
 .card__close.black {
-    background: url(../images/9a335856b65dc55736413e35b5315b66.svg) center no-repeat;
+    background: url(images/9a335856b65dc55736413e35b5315b66.svg) center no-repeat;
 }
 .card__title {
     position: absolute;
@@ -834,7 +837,4 @@ p {
     max-width: 1920px;
     min-height: 1080px;
     max-height: 1080px;
-}
-body {
-    background: #777;
 }
