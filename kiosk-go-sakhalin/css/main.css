@@ -134,7 +134,7 @@ sup {
    ========================================================================== */
 
 /**
- * Remove the border on images inside links in IE 10.
+ * Remove the border on ../images inside links in IE 10.
  */
 
 img {
@@ -347,13 +347,13 @@ template {
 
 /*@font-face {*/
     /*font-family: 'Permian Slab';*/
-    /*src: url('./resources/fonts/permian/PermianSlabSerifTypeface.otf');*/
+    /*src: url('./resources/../fonts/permian/PermianSlabSerifTypeface.otf');*/
     /*font-weight: 400;*/
     /*font-style: normal;*/
 /*}*/
 /*@font-face {*/
     /*font-family: 'Permian Slab';*/
-    /*src: url('./resources/fonts/permian/PermianSlabSerifTypeface-Bold.otf');*/
+    /*src: url('./resources/../fonts/permian/PermianSlabSerifTypeface-Bold.otf');*/
     /*font-weight: bold;*/
     /*font-style: normal;*/
 /*}*/
@@ -406,7 +406,7 @@ p {
     top: 22px;
     height: 26px;
     width: 179px;
-    background: url(images/195baf9eed150c7a6925b5b6456b30a2.svg) center no-repeat;
+    background: url(../images/195baf9eed150c7a6925b5b6456b30a2.svg) center no-repeat;
 }
 body {
     background: #777;
@@ -438,7 +438,7 @@ body {
 .screen-saver-page__button.button2 {
     top: 576px;
 }.PresentationSelectorPage {
-    background: #fff url(images/aa2a8dc467d0384a56558713bc0fab26.png) center no-repeat;
+    background: #fff url(../images/aa2a8dc467d0384a56558713bc0fab26.png) center no-repeat;
 }
 .PresentationSelectorPage__button {
     width: 436px;
@@ -532,12 +532,12 @@ body {
     background: #fff;
     border-radius: 50%;
     transform: translateY(-50%);
-    background: url(images/74ea32e2c7204cd83b3bd13ee9f8a4e5.svg);
+    background: url(../images/74ea32e2c7204cd83b3bd13ee9f8a4e5.svg);
     display: none;
 }
 .GCarousel__prev-button {
     left: 16px;
-    background: url(images/07c961b307d610fafb5ea1b796374b4a.svg);
+    background: url(../images/07c961b307d610fafb5ea1b796374b4a.svg);
 }
 /*.GCarousel__prev-button:before {*/
     /*content: '<';*/
