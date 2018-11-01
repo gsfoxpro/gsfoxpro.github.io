@@ -649,7 +649,7 @@ p {
 .zone,
 .Page > div.zone {
     position: absolute;
-    /*background: rgba(255, 0, 0, 0.2);*/
+    background: rgba(255, 0, 0, 0.2);
     cursor: pointer;
 }
 .point {
@@ -678,6 +678,28 @@ p {
 }
 .zone.active .point > p {
     color: #C60000;
+}
+.Page__after-texts {
+    position: absolute;
+    bottom: 100px;
+}
+.Page__after-texts::before {
+    content: '';
+    height: 1px;
+    width: 60px;
+    background: #000;
+    top: -10px;
+    left: 0;
+    position: absolute;
+}
+.Page__after-texts p {
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 10px;
+}
+.Page__after-texts p > .link {
+    text-decoration: underline;
+    color: #000;
 }.PagesTabs {
     display: flex;
     justify-content: space-around;
