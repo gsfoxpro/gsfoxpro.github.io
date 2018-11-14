@@ -820,10 +820,12 @@ p {
 .Menu__item > a:visited {
     cursor: pointer;
     font-size: 23px;
-    line-height: 44px;
+    line-height: 31px;
     color: #000;
     text-decoration: none;
-    display: inline-block;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
 }
 .Menu__item.active > p,
 .Menu__item.active > a {
