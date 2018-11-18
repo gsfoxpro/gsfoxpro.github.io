@@ -3,8 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Игринский</title>
-<link href="./css/main.css?v=aac41e" rel="stylesheet"></head>
+<link href="./css/main.css?v=a42503" rel="stylesheet"></head>
 <body>
     <div id="root"></div>
-<script type="text/javascript" src="index.js?v=aac41e"></script></body>
+    <script>
+        const {webFrame} = require('electron')
+        window.webFrame = webFrame
+        webFrame.setVisualZoomLevelLimits(1, 1)
+    </script>
+<script type="text/javascript" src="index.js?v=a42503"></script></body>
 </html>

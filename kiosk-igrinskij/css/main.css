@@ -8,7 +8,7 @@
     top: 0;
     width: 1920px;
     height: 1080px;
-    background: url(../images/966599d9bde3c191733693ff011d3627.png) center no-repeat;
+    background: url(../images/51dace226b64058b6815bb6c93f4ae31.png) center no-repeat;
     z-index: 1;
     transition: all 0.8s ease-in-out;
     border-radius: 0;
@@ -420,28 +420,28 @@ p {
     opacity: 1;
 }
 .App_background:nth-of-type(1) {
-    background: url(../images/d3bcac5a509ef1d01d31697cb5e15002.png) center no-repeat;
+    background: url(../images/9bf653e14b290d6daffa9bc3013b4924.png) center no-repeat;
 }
 .App_background:nth-of-type(2) {
-    background: url(../images/b3a59dbba854bc6e78696ea4e4d023b3.png) center no-repeat;
+    background: url(../images/a6e6633307c249540b723b013d384001.png) center no-repeat;
 }
 .App_background:nth-of-type(3) {
-    background: url(../images/83f5150fdb8a1b6208c812de8ebe9e44.png) center no-repeat;
+    background: url(../images/d7d8b3fdf1271f34d66a0ec57d0daff9.png) center no-repeat;
 }
 .App_background:nth-of-type(4) {
-    background: url(../images/dd68206211ff61910d56a7568730e656.png) center no-repeat;
+    background: url(../images/7bd0139988e7cf8c8ddcba09557e15eb.png) center no-repeat;
 }
 .App_background:nth-of-type(5) {
-    background: url(../images/e64d0b6d5ce0b1e839b9905d536c11a6.png) center no-repeat;
+    background: url(../images/7945a62c33521bfb20c64872207ec066.png) center no-repeat;
 }
 .App_background:nth-of-type(6) {
-    background: url(../images/7e2c5b9db8a3e8f466f4bf7c60f9ce52.png) center no-repeat;
+    background: url(../images/aee28c86139cc1fb2e5e03db6aa933b8.png) center no-repeat;
 }
 .App_background:nth-of-type(7) {
-    background: url(../images/f857446a991cb2bc49df71bcd1686f80.png) center no-repeat;
+    background: url(../images/39a3ce2cc2c46dfb43940b08b5e576ae.png) center no-repeat;
 }
 .App_background:nth-of-type(8) {
-    background: url(../images/8536be998fc18c525a8ba6503720aa4c.png) center no-repeat;
+    background: url(../images/0175b81e939ac56aa3c1801fb092dc4c.png) center no-repeat;
 }
 .App__menu {
     min-width: 335px;
@@ -537,7 +537,7 @@ p {
     margin-bottom: 40px;
 }
 .Page__text {
-    font-size: 18px;
+    font-size: 17px;
     line-height: 24px;
     text-align: justify;
 }
@@ -928,7 +928,7 @@ p {
 .FullscreenCarousel .ImagesCarousel__item__image-wrap.transparent > img {
     box-sizing: border-box;
     padding: 50px 100px;
-    background: url(../images/3c36b547c9ca9ba5cfeafef1f00bf9cc.png) center no-repeat;
+    background: url(../images/2f7d93433d3b017910447b9450bf5f6f.png) center no-repeat;
     background-size: cover;
 }
 /*.ImagesCarousel__item__image-wrap.transparent {*/
@@ -952,7 +952,7 @@ p {
     display: none;
 }
 .FullscreenCarousel .GsCarousel__preview img {
-    background: url(../images/3c36b547c9ca9ba5cfeafef1f00bf9cc.png) center no-repeat;
+    background: url(../images/2f7d93433d3b017910447b9450bf5f6f.png) center no-repeat;
     background-size: cover;
 }.Tracks {
     display: flex;
@@ -974,7 +974,7 @@ p {
 }.Player {
     width: 596px;
     height: 822px;
-    background: url(../images/70a1447520a2678387d5e34e4b36bdb6.png) center no-repeat;
+    background: url(../images/aa0641d7319875cb42da2ae61e1fce9f.png) center no-repeat;
     padding: 0 14px;
     display: flex;
     flex-direction: column;
