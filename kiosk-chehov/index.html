@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Стандартное ПО</title>
+<link href="./css/main.css?v=45d407" rel="stylesheet"></head>
+<body>
+<div id="root"></div>
+<script>
+    const {webFrame} = require('electron')
+    window.webFrame = webFrame
+    webFrame.setVisualZoomLevelLimits(1, 1)
+</script>
+<script type="text/javascript" src="index.js?v=45d407"></script></body>
+</html>
