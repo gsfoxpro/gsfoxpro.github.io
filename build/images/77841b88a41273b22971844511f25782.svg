@@ -1,0 +1,7 @@
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="26" height="26" rx="3" fill="white"/>
+<rect width="1" height="9" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 21.7168 5.06055)" fill="#C4C4C4"/>
+<path d="M21.9998 3.99982L21.9999 9L21 9L20.9999 4.99971L16.9999 5.0002L16.9999 4.00031L21.9998 3.99982Z" fill="#C4C4C4"/>
+<rect width="1" height="9" transform="matrix(0.707107 0.707107 0.707107 -0.707107 4.35352 21.0098)" fill="#C4C4C4"/>
+<path d="M4.00021 21.9997L4.00105 16.9995L5.00094 16.9995L5.0001 20.9998L8.99958 20.9995L8.99958 21.9994L4.00021 21.9997Z" fill="#C4C4C4"/>
+</svg>

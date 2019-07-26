@@ -1,0 +1,13 @@
+<svg width="118" height="135" viewBox="0 0 118 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-1" y="1" width="58" height="133" transform="matrix(-1 0 0 1 58 0)" stroke="#515257" stroke-width="2"/>
+<rect x="-1" y="1" width="44" height="119" transform="matrix(-1 0 0 1 51 7)" stroke="#515257" stroke-width="2"/>
+<path d="M8 8L51 66.9541L8 127" stroke="#30C2FF"/>
+<line y1="-0.5" x2="10" y2="-0.5" transform="matrix(0 -1 -1 0 26 72)" stroke="#30C2FF"/>
+<line y1="-0.5" x2="10" y2="-0.5" transform="matrix(-1 0 0 1 36 63)" stroke="#30C2FF"/>
+<line y1="-0.5" x2="10" y2="-0.5" transform="matrix(-1 0 0 1 36 72)" stroke="#30C2FF"/>
+<line y1="-0.5" x2="16" y2="-0.5" transform="matrix(0 -1 -1 0 36 75)" stroke="#30C2FF"/>
+<rect x="59" y="1" width="58" height="133" stroke="#515257" stroke-width="2"/>
+<rect x="66" y="8" width="44" height="119" stroke="#515257" stroke-width="2"/>
+<path d="M110 8L67 66.9541L110 127" stroke="#30C2FF"/>
+<path d="M110 127L88.2018 8L66 127" stroke="#30C2FF"/>
+</svg>

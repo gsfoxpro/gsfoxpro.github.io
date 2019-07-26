@@ -1,0 +1,15 @@
+<svg width="176" height="191" viewBox="0 0 176 191" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="24.0105" y1="74.0322" x2="36.0313" y2="62.0114" stroke="#30C2FF"/>
+<line x1="24.0103" y1="62.0107" x2="36.0311" y2="74.0315" stroke="#30C2FF"/>
+<rect x="-1" y="1" width="58" height="133" transform="matrix(-1 0 0 1 116 0)" stroke="#515257" stroke-width="2"/>
+<rect x="-1" y="1" width="44" height="119" transform="matrix(-1 0 0 1 109 7)" stroke="#515257" stroke-width="2"/>
+<path d="M66 8L109 66.9541L66 127" stroke="#30C2FF"/>
+<path d="M66 127L87.7982 9L110 127" stroke="#30C2FF"/>
+<rect x="-1" y="1" width="58" height="133" transform="matrix(-1 0 0 1 58 0)" stroke="#515257" stroke-width="2"/>
+<rect x="-1" y="1" width="44" height="119" transform="matrix(-1 0 0 1 51 7)" stroke="#515257" stroke-width="2"/>
+<rect x="-1" y="1" width="58" height="189" transform="matrix(-1 0 0 1 174 0)" stroke="#515257" stroke-width="2"/>
+<rect x="-1" y="1" width="44" height="119" transform="matrix(-1 0 0 1 167 7)" stroke="#515257" stroke-width="2"/>
+<rect x="-1" y="1" width="44" height="49" transform="matrix(-1 0 0 1 167 133)" stroke="#515257" stroke-width="2"/>
+<path d="M168 8L125 94.6973L168 183" stroke="#30C2FF"/>
+<path d="M124 183L145.798 9L168 183" stroke="#30C2FF"/>
+</svg>

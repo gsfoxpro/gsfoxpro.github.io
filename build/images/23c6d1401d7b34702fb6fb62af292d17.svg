@@ -1,0 +1,20 @@
+<svg width="116" height="85" viewBox="0 0 116 85" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-0.5" y="0.5" width="26" height="30" transform="matrix(-1 0 0 1 61 13)" stroke="#515257"/>
+<rect x="-0.5" y="0.5" width="10" height="26" transform="matrix(-1 0 0 1 47 15)" stroke="#515257"/>
+<rect x="-0.5" y="0.5" width="10" height="26" transform="matrix(-1 0 0 1 59 15)" stroke="#515257"/>
+<rect x="-0.5" y="0.5" width="60" height="79" transform="matrix(-1 0 0 1 87 5)" stroke="#515257"/>
+<line x1="35" y1="48.5" x2="80" y2="48.5" stroke="#515257"/>
+<line x1="35" y1="53.5" x2="80" y2="53.5" stroke="#515257"/>
+<line x1="35" y1="58.5" x2="80" y2="58.5" stroke="#515257"/>
+<line x1="35" y1="78.5" x2="62" y2="78.5" stroke="#515257"/>
+<line x1="67" y1="78.5" x2="80" y2="78.5" stroke="#515257"/>
+<line x1="67" y1="43.5" x2="80" y2="43.5" stroke="#515257"/>
+<line x1="67" y1="38.5" x2="80" y2="38.5" stroke="#515257"/>
+<line x1="67" y1="33.5" x2="80" y2="33.5" stroke="#515257"/>
+<line x1="67" y1="28.5" x2="80" y2="28.5" stroke="#515257"/>
+<line x1="67" y1="23.5" x2="80" y2="23.5" stroke="#515257"/>
+<line x1="67" y1="18.5" x2="80" y2="18.5" stroke="#515257"/>
+<line x1="67" y1="13.5" x2="80" y2="13.5" stroke="#515257"/>
+<path d="M31 0.5H92.5" stroke="#515257"/>
+<path d="M92.5 0L92.5 81" stroke="#515257"/>
+</svg>
